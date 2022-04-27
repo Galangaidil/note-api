@@ -3,9 +3,7 @@
 Notes API is a collection of APIs, simple implementation of [Laravel Sanctum](https://laravel.com/docs/9.x/sanctum) to
 managing data in ours mobile application. We're providing a lot of features such as authentication system, including
 Login and Registration, as well as CRUD operations on the Note, Label, and more. Every endpoint except login and
-registration is securely protected by sanctum middleware to make sure that the incoming http request is from **
-authenticate**
-and **authorize** user.
+registration is securely protected by sanctum middleware to make sure that the incoming http request is from **authenticate** and **authorize** user.
 
 ## Endpoints
 
